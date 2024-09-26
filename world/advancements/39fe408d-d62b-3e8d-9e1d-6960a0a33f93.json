@@ -1994,6 +1994,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-09-25 01:27:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-25 01:29:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-09-25 01:30:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-09-25 01:31:52 +0700"
@@ -2003,18 +2021,6 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-09-25 01:31:52 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-09-25 01:27:08 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-09-25 01:49:59 +0700"
     },
     "done": true
   },
@@ -2030,15 +2036,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "traded": "2024-09-25 01:29:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2024-09-25 01:30:16 +0700"
+      "enchanted_item": "2024-09-25 01:49:59 +0700"
     },
     "done": true
   },
